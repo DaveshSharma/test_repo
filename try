@@ -1,0 +1,6 @@
+#!/bin/bash/
+
+read -p  "Enter the path" variable
+cd $variable
+#exec bash
+#echo "the current path is `pwd`"
